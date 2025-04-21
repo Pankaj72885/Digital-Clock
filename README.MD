@@ -6,7 +6,7 @@ A feature-rich digital clock application built with **Vanilla JavaScript** and s
 
 ## 📺 Live Preview
 
-Check out the [Live Demo](https://pankaj7288.github.io/Digital-Clock) to see the clock in action.
+Check out the [Live Demo](https://pankaj72885.github.io/Digital-Clock) to see the clock in action.
 
 ---
 
@@ -68,8 +68,8 @@ Your contributions can help make this project even better!
 For any questions, suggestions, or feedback, feel free to reach out:
 
 - **Author**: **Pankaj Bepari**  
-    GitHub: [@pankaj72885](https://github.com/pankaj72885)  
-    Email: [pankaj@example.com](mailto:pankajbepari7@gmail.com)
+   GitHub: [@pankaj72885](https://github.com/pankaj72885)  
+   Email: [pankajbepari7@gmail.com](mailto:pankajbepari7@gmail.com)
 
 ---
 
